@@ -94,8 +94,3 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
-
-define( 'WP_CONTENT_DIR', dirname(__FILE__) . '/wp-content' );
-define ('WP_CONTENT_URL', 'http://wpsubdir.dev' . '/wp-content' );
-
-define('MYSQL_CLIENT_FLAGS', MYSQLI_CLIENT_SSL);
