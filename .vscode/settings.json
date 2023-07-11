@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a9ab6c53-11d5-43da-8a89-190440b0d582/resourceGroups/ntkac_group/providers/Microsoft.Web/sites/ntkac-test2",
+    "appService.deploySubpath": "."
+}
